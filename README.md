@@ -13,14 +13,14 @@ Install Eclipse IDE by visiting this link (https://www.eclipse.org/downloads/)
 3. Lastly, JavaFX must be installed. Visit this link on how to install JavaFX: https://openjfx.io/openjfx-docs/
 
 ### How to run
-After installing Java Programming Language, Eclipse IDE and JavaFX, import the project folder in Eclipse IDE.
-Click the 'Run' button and it should open the application.
+After installing Java Programming Language, Eclipse IDE and JavaFX, import the project folder in Eclipse IDE.\
+Click the 'Run' button and it should open the application.\
 If you have problem running the application follow this guide: https://openjfx.io/openjfx-docs/#IDE-Eclipse
 
 
 ## Author:
-Arches, Garcia and Sibor
-BS Computer Science
-Institute of Computer Science
-College of Arts and Sciences
+Arches, Garcia and Sibor\
+BS Computer Science\
+Institute of Computer Science\
+College of Arts and Sciences\
 University of the Philippines Los Banos
